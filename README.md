@@ -5,4 +5,5 @@
 #### 4. type command: pytest
 #### 5. The test case included in the project will be executed
 ***
-#### *Download chromedriver with the same version of machine Chrome Browser before launching. I am using with 93.0.4577
+##### Download chromedriver with the same version of machine Chrome Browser before launching. http://npm.taobao.org/mirrors/chromedriver/
+##### I am using with 93.0.4577
